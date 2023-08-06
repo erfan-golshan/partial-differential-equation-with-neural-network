@@ -11,7 +11,7 @@ u(x,y) = x + 2*x*y
 
 we use one-point-forward formula to approximate the differentiations and then we start the training.
 
-Our loss function has to aspects, one of them is the difference between the two sides of the equation, ant the other one is the difference from the fixed point (which in this problem is u(0,0) ).
+Our loss function has to aspects, one of them is the difference between the two sides of the equation, and the other one is the difference from the fixed point (which in this problem is u(0,0) ).
 
 the loss plot is
 
